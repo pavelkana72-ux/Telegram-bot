@@ -1,0 +1,10 @@
+__pycache__/
+*.jpg
+*.png
+*.mp4
+*.mov
+*.jpeg
+*.zip
+*.apk
+.DS_Store
+.env
